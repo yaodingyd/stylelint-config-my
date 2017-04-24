@@ -1,0 +1,9 @@
+{
+  "name": "stylelint-config-webmd",
+  "version": "1.0.0",
+  "description": "Stylelint Configuration",
+  "main": "index.js",
+  "repository": "https://github.com/yaodingyd/stylelint-config-webmd.git",
+  "author": "yding <yding@webmd.net>",
+  "license": "MIT"
+}
