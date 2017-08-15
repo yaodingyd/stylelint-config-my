@@ -1,4 +1,4 @@
-# stylelint-config-webmd
+# stylelint-config-my
 
 Basic rules for linting CSS files:
 1. "font-family-no-duplicate-names": Disallow duplicate font family names.
